@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ask-the-grid",
+  "description": "Explore live and historical U.S. power-market data, grid assets, alerts, and Energy Wire through Ask the Grid.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Parisi Labs",
+    "url": "https://parisi-labs.com"
+  },
+  "homepage": "https://askthegrid.com/mcp",
+  "repository": "https://github.com/Parisi-Labs/askthegrid-mcp",
+  "license": "MIT",
+  "keywords": [
+    "energy",
+    "electricity",
+    "power-grid",
+    "power-markets",
+    "mcp"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "ask-the-grid": {
+      "type": "streamable-http",
+      "url": "https://mcp.askthegrid.com/v1/global"
+    }
+  }
+}
